@@ -13,7 +13,7 @@ The app is built on salesforce platform. It aims on informing the citizens and t
 -   Lightning Web Components
 
 
-#### Install the Application
+## Install the Application
 
 **Make sure you have "git" and Salesoforce CLI installed in your system. Follow below steps to upload object schema along with permission set in your Salesforce Org.**
 
