@@ -2,7 +2,7 @@
 
 The app is built on salesforce platform. It aims on informing the citizens and the health offiicals of a country about a disease spread in the country. Hence this application helps in controlling the situation of a disease in the region.
 
-![Contact_Tracing_App](https://github.com/hirshi2107/contact-tracing/blob/master/screenshots/screenshots.png)
+![Contact_Tracing_App](https://github.com/hirshi2107/Contact-Tracer/blob/master/screenshots/screenshots.png)
 
 ## The technologies used to make this web-application are:
 
